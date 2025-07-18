@@ -27,3 +27,8 @@ Machine learning model implementation is widely used across various domains incl
 
 In summary, ML model implementation is a critical process that transforms data into actionable intelligence, enabling automation, optimization, and smarter decision-making across industries.
 
+## OUTPUT
+<img width="723" height="502" alt="Image" src="https://github.com/user-attachments/assets/febc70f0-c5ae-4623-acd1-700a49077c53" />
+<img width="623" height="524" alt="Image" src="https://github.com/user-attachments/assets/3be50bdc-7d3c-4d3e-8924-8faa12d51f49" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/26738bad-4636-40f6-bc8b-c043f2236f72" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/454f2264-64bf-445c-ac3e-cb6288f6a829" />
